@@ -44,7 +44,7 @@ Output
 - Alerts
 - AI suggestions
 
-Note
+Note: 
 This project currently uses manually entered values to simulate sensor data. It can be connected to real sensors like pH, TDS, turbidity, and temperature sensors in the future.
 
 #Team Members
