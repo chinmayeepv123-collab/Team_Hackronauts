@@ -4,6 +4,9 @@ AquaGuard – Smart Water Quality Monitoring System using AI
 Description
 AquaGuard is an AI-based water quality monitoring system that analyzes water parameters and predicts whether the water is safe or unsafe. It also provides alerts, a water quality score, and AI-based suggestions.
 
+Proposed Solution
+AquaGuard is an AI-based water quality monitoring system that analyzes key water parameters such as pH, TDS, turbidity, and temperature. It uses a machine learning model to predict whether the water is safe or unsafe. The system also provides alerts, a water quality score, and AI-based suggestions for improving water quality. The solution is designed to be scalable and can be integrated with IoT sensors for real-time monitoring.
+
 Features
 - Water quality prediction (Safe / Unsafe)
 - Water Quality Index (WQI)
