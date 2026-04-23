@@ -1,5 +1,5 @@
 # Team_Hackronauts
-AquaGuard – Smart Water Monitoring System using AI
+AquaGuard – Smart Water Quality Monitoring System using AI
 
 Description
 AquaGuard is an AI-based water quality monitoring system that analyzes water parameters and predicts whether the water is safe or unsafe. It also provides alerts, a water quality score, and AI-based suggestions.
